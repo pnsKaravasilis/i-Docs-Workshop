@@ -1,0 +1,45 @@
+ORDERED LIST: 
+Arrival 20
+Trolls 40
+Arrival3 80
+Miss Peregrine's Home for Peculiar Children 100
+Arrival2 110
+Doctor Strange 110
+Fantastic Beasts and Where to Find Them 120
+The Magnificent Seven 126
+SUPER 126
+
+
+panos MOVIES PERCENTAGES:
+Movie: The Magnificent Seven | Percentage Watched: 94
+Movie: SUPER | Percentage Watched: 94
+Movie: Miss Peregrine's Home for Peculiar Children | Percentage Watched: 78
+Total Percentage: 88
+
+
+pauline MOVIES PERCENTAGES:
+Movie: Fantastic Beasts and Where to Find Them | Percentage Watched: 90
+Movie: Arrival | Percentage Watched: 17
+Movie: Arrival2 | Percentage Watched: 94
+Movie: Arrival3 | Percentage Watched: 68
+Total Percentage: 67
+
+
+kostas MOVIES PERCENTAGES:
+Movie: Trolls | Percentage Watched: 43
+Movie: Doctor Strange | Percentage Watched: 95
+Total Percentage: 69
+
+
+panos FAVORITE GENRE
+Genre: Action | Frequency: 2
+
+
+pauline FAVORITE GENRE
+Genre: SciFi | Frequency: 2
+
+
+kostas FAVORITE GENRE
+Genre: Fantasy | Frequency: 1
+
+
